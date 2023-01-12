@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+You can visit the live page at:
+
+https://nikhil0o7.github.io/robo_friends/
 
 In the project directory, you can run:
 
